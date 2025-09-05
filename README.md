@@ -42,7 +42,7 @@ Database_Script.sql – Script used to create the database and tables.
 
 SQL Queries.sql – Contains all SQL queries written to answer the ten business questions.
 
-Sales Data Analysis Report – A written summary of the answers and insights generated from the analysis.
+Pizza Sales Analysis Report – A written summary of the answers and insights generated from the analysis.
 
 Outcome
 
